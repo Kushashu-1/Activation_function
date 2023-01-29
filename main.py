@@ -30,7 +30,7 @@ def about():
     st.write("It is Basic Web App for the Visualization of Activation Function in Neural NetWork")
     st.subheader("Created By : ")
     st.write("Ashutosh Singh Kushwaha")
-    st.write("Contact at : https://in.linkedin.com/in/ashutosh-singh-kushwaha-0836b5182")
+    st.write("Contact at : https://www.linkedin.com/in/kushashu")
 
 # Menu
 if page == 'Home':
